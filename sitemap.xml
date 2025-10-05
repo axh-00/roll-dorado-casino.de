@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:54515/verantwortungsvolles-spielen/</loc>
+    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/contacts/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/app/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/bonuses/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/geschaftsbedingungen/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/cookie-richtlinie/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/datenschutzrichtlinie/</loc>
+    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/uber-uns/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/</loc>
+    <lastmod>2025-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54515/categories/</loc>
+  </url><url>
+    <loc>http://localhost:54515/tags/</loc>
+  </url>
+</urlset>
